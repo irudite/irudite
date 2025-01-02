@@ -15,7 +15,7 @@ I'm a Computer Science undergraduate at Lehigh University, passionate about crea
 
     Frontend Development: HTML, CSS, JavaScript, React
     Backend & Databases: Node.js, SQL, PostgreSQL
-    General Languages: C, C++
+    General Languages: C, C++, Java, Python
 
 🔗 Let's Connect:
 
