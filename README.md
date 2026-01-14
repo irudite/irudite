@@ -1,5 +1,5 @@
 <h4 align="left">Kerrick Truong</h4>
-<p align="left">I am a senior in university studying computer science and intend on completing a masters in computer science as well. <br/> 
+<p align="left">I am a senior in university studying computer science and intend on completing a masters in computer science as well. <br/> <br/> 
   Currently, I am interested in systems programming and enjoy collaborating/helping with my peers on programming projects.</p>
 <br/>
 <ul>
